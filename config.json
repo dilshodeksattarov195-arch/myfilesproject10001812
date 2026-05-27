@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdpdate",
+        "uuid": 4386852,
+        "checksum": "ep50bs"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
